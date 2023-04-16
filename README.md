@@ -1,4 +1,4 @@
-Portugues
+Português
 
 - 👋 Olá, eu sou o João Curcino.
 - 🌱 Atualmente estou em processo de aprendizagem em Web Development e estou sempre buscando me aprimorar.
