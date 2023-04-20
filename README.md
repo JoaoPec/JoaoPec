@@ -1,7 +1,7 @@
 Português
 
 - 👋 Olá, eu sou o João Curcino.
-- 🌱 Atualmente estou em processo de aprendizagem em Web Development e estou sempre buscando me aprimorar.
+- 🌱 Atualmente estou em processo de aprendizagem em Desenvolvimento Web e estou sempre buscando me aprimorar.
 - 👀 Tenho grande interesse em tecnologia e programação, e estou sempre em busca de novos desafios para me desenvolver.
 - 💻 Além de estudar, também gosto de colocar em prática o que aprendo.
 - 📫 Se quiser entrar em contato comigo, pode me enviar um email para: joaopecurcino@hotmail.com.
