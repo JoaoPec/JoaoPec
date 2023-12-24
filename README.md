@@ -1,5 +1,4 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/JoaoPec/JoaoPec/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I'm a young technology enthusiast with a passion for programming and the web ecosystem. Currently, I'm actively seeking opportunities to contribute as a web developer. My expertise spans technologies such as Node.js, React.js, and TypeScript, which I leverage to bring my projects to life./p>&nbsp;
