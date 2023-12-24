@@ -1,7 +1,7 @@
 
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I'm a young technology enthusiast with a passion for programming and the web ecosystem. Currently, I'm actively seeking opportunities to contribute as a web developer. My expertise spans technologies such as Node.js, React.js, and TypeScript, which I leverage to bring my projects to life./p>&nbsp;
+<p align="center">I'm a young technology enthusiast with a passion for programming and the web ecosystem. Currently, I'm actively seeking opportunities to contribute as a web developer. My expertise spans technologies such as Node.js, React.js, and TypeScript, which I leverage to bring my projects to life.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=JoaoPec&theme=radical&mode=weekly" />
