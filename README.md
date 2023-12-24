@@ -9,7 +9,7 @@ Tech Stack
     Frameworks: Node.js, React.js
     Exploring: Golang
 
-# Operating System
+## Operating System
 
 I'm an avid Linux enthusiast, embracing the power and versatility of open-source technologies.
 
