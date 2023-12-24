@@ -1,16 +1,15 @@
-Português
+# About Me
 
-- 👋 Olá, eu sou o João Curcino.
-- 🌱 Atualmente estou em processo de aprendizagem em Desenvolvimento Web e estou sempre buscando me aprimorar.
-- 👀 Tenho grande interesse em tecnologia e programação, e estou sempre em busca de novos desafios para me desenvolver.
-- 💻 Além de estudar, também gosto de colocar em prática o que aprendo.
-- 📫 Se quiser entrar em contato comigo, pode me enviar um email para: joaopecurcino@hotmail.com.
+I'm a young technology enthusiast with a passion for programming and the web ecosystem. Currently, I'm actively seeking opportunities to contribute as a web developer. My expertise spans technologies such as Node.js, React.js, and TypeScript, which I leverage to bring my projects to life.
 
+In addition to my current skill set, I am dedicated to continuous improvement and am exploring high-performance technologies like Golang to broaden my skill palette. I am eager to apply my knowledge and enthusiasm in a dynamic development environment.
+Tech Stack
 
-English
+    Languages: JavaScript/TypeScript
+    Frameworks: Node.js, React.js
+    Exploring: Golang
 
-- 👋 Hi, I'm João Curcino.
-- 🌱 I'm currently in the process of learning Web Development and always looking to improve.
-- 👀 I have a great interest in technology and programming, and I'm always looking for new challenges to develop myself.
-- 💻 Besides studying, I also enjoy putting into practice what I learn.
-- 📫 If you want to get in touch with me, you can send me an email at: joaopecurcino@hotmail.com
+# Operating System
+
+I'm an avid Linux enthusiast, embracing the power and versatility of open-source technologies.
+
