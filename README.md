@@ -2,7 +2,6 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">As an undergraduate student in Software Engineering, I currently work as a freelance developer, creating web solutions for my clients. My daily routine involves mastering and continuously studying various technologies, including Linux, React, TypeScript, Golang, Node.js, and relational and non-relational databases such as PostgreSQL and MongoDB.
-
 In addition to my freelance work, I am an active member of the academic community, participating in projects and research as part of scientific initiation in collaboration with colleagues and professors. Currently, I am involved in research on the use of blockchain in Brazilian governmental auditing. This research has provided me with a deep dive into governance concepts, cryptography, and smart contract development</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
