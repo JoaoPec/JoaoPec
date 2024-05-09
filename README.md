@@ -6,8 +6,8 @@
 In addition to my freelance work, I am an active member of the academic community, participating in projects and research as part of scientific initiation in collaboration with colleagues and professors. Currently, I am involved in research on the use of blockchain in Brazilian governmental auditing. This research has provided me with a deep dive into governance concepts, cryptography, and smart contract development</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=JoaoPec&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=JoaoPec&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoPec&theme=tokyonight&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=JoaoPec&show_icons=true&theme=tokyonight&layout=compact" />
  </div>
  
  &nbsp;
