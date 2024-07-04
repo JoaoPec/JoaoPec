@@ -7,7 +7,7 @@ In addition to my freelance work, I am an active member of the academic communit
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoPec&theme=tokyonight&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=JoaoPec&show_icons=true&theme=tokyonight&layout=compact&hide=html,css,scss" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=JoaoPec&show_icons=true&theme=tokyonight&layout=compact&hide=html,css,scss&langs_count=8" />
  </div>
  
  &nbsp;
