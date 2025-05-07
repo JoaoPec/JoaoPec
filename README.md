@@ -1,9 +1,9 @@
 
 &nbsp;&nbsp;&nbsp;
 
-<p align="left">As an undergraduate student in Software Engineering, I currently work as a freelance developer, creating web solutions for my clients. My daily routine involves mastering and continuously studying various technologies, including Linux, React, TypeScript, Golang, Node.js, and relational and non-relational databases such as PostgreSQL and MongoDB.
- 
-In addition to my freelance work, I am an active member of the academic community, participating in projects and research as part of scientific initiation in collaboration with colleagues and professors. Currently, I am involved in research on the use of blockchain in Brazilian governmental auditing. This research has provided me with a deep dive into governance concepts, cryptography, and smart contract development</p>&nbsp;
+<p align="left">Software developer focused on building web applications, scalable systems, and process automation. I work with JavaScript, TypeScript, PHP, Python, Laravel, React, Vue.js, Node.js, and SQL, and manage databases such as PostgreSQL, SQLite, and MongoDB.
+
+I develop school and financial management systems, API integrations, and automations, and also contribute to blockchain research and web development projects. I'm currently pursuing a degree in Software Engineering at UNIFACS, with a technical background in Systems Development from SENAI.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoPec&theme=tokyonight&mode=weekly" />
