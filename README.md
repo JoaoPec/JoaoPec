@@ -1,8 +1,6 @@
 &nbsp;&nbsp;&nbsp;
 <p align="left">
-Backend Engineer focused on building web APIs, distributed systems, and scalable architectures. 
-I work mainly with NestJS, Go, Laravel, and Kafka, developing modules for educational and financial management systems, banking API integrations, and event-driven applications.
-Currently pursuing a degree in Software Engineering at UNIFACS, with a technical background in Systems Development from SENAI.
+Backend Engineer focused on building web APIs and scalable backend systems. I work mainly with NestJS, Laravel, and PostgreSQL, developing backend services, integrations, and automation features for complex business applications, including financial and administrative systems. I have experience with system design concepts and event-driven architectures, with exposure to Go and Kafka in specific contexts. Currently pursuing a degree in Software Engineering at UNIFACS, with a technical background in Systems Development from SENAI.
 </p>&nbsp;
 
 <div align="center" style="margin-bottom:100px">
