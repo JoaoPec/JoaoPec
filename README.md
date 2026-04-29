@@ -1,47 +1,109 @@
-&nbsp;&nbsp;&nbsp;
-<p align="left">
-Backend Engineer focused on building web APIs and scalable backend systems. I work mainly with NestJS, Laravel, and PostgreSQL, developing backend services, integrations, and automation features for complex business applications, including financial and administrative systems. I have experience with system design concepts and event-driven architectures, with exposure to Go and Kafka in specific contexts. Currently pursuing a degree in Software Engineering at UNIFACS, with a technical background in Systems Development from SENAI.
-</p>&nbsp;
+<h1 align="center">João Curcino</h1>
 
-<div align="center" style="margin-bottom:100px">
-<img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoPec&theme=tokyonight&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=JoaoPec&show_icons=true&theme=tokyonight&layout=compact&hide=html,css,scss,javascript,blade&langs_count=6" />
+<p align="center">
+Backend Engineer • APIs • Distributed Systems • Event-Driven Architecture
+</p>
+
+<p align="center">
+<a href="https://joaopec.com" target="_blank">🌐 Portfolio</a> •
+<a href="mailto:joaopecurcino.dev@gmail.com">📩 Email</a> •
+<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-curcino-dos-santos-490601262/" target="_blank">💼 LinkedIn</a>
+</p>
+
+---
+
+## 🚀 About Me
+
+Backend Engineer with experience building **scalable APIs and web systems** focused on financial and educational domains.
+
+Currently working with **NestJS, Node.js, and Laravel**, developing integrations, automation processes, and distributed systems using **event-driven architecture and messaging (Kafka)**.
+
+I also have experience with **Docker, Linux environments, and system design**, contributing to real-world applications with thousands of users.
+
+---
+
+## 💼 Experience
+
+**Software Engineer @ Infocraft**  
+`Jan 2025 - Present`
+- Development of backend services using NestJS and Laravel  
+- Financial integrations (PIX, boletos, credit card)  
+- Digital signature implementation  
+- System optimization and new features  
+
+**Freelancer Developer**  
+`2022 - Present`
+- Automation systems (Excel → Database)  
+- Fullstack applications and integrations  
+
+---
+
+## 🚀 Featured Projects
+
+### 🧥 Vistta — C2C Marketplace (in progress)
+🔗 https://vistta.app  
+
+Mobile-first marketplace for second-hand fashion, focused on **local discovery and peer-to-peer transactions**.
+
+- Backend architecture and API design (Node.js / NestJS)  
+- Real-time interactions (chat, listings, negotiations)  
+- Product catalog and user system  
+- Focus on performance and mobile-first UX  
+- Circular economy concept (resale / sustainability)  
+
+---
+
+### 📈 Portfolio Optimization (Markowitz Model)
+
+System for portfolio optimization using **Modern Portfolio Theory (Harry Markowitz)**.
+
+- Risk vs return analysis  
+- Efficient frontier calculation  
+- Data processing and simulations in Python  
+- Financial modeling and statistical analysis  
+
+---
+
+## 🧠 Tech Stack
+
+### Backend
+- Node.js • NestJS • Laravel • Go  
+
+### Databases
+- PostgreSQL • MongoDB • MySQL  
+
+### Architecture & Tools
+- Kafka • Docker • Linux • Nginx  
+- REST APIs • GraphQL • Event-Driven Systems  
+
+### Frontend (support)
+- React • Vue.js  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoPec&theme=tokyonight&mode=weekly" />
+  <img width="40%" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=JoaoPec&layout=compact&theme=tokyonight&hide=html,css,scss,javascript,blade" />
 </div>
 
-&nbsp;
-&nbsp;
+---
 
-## My Skills
+## 🌐 Portfolio
 
-#### Main Stack:
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+Check out more projects and case studies:  
+👉 https://joaopec.com  
 
-#### Databases:
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![SQLite](https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)
+---
 
-#### Workstation Tools:
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)&nbsp;
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+## 📫 Contact
 
-&nbsp;
-&nbsp;
+- Email: joaopecurcino.dev@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/joão-pedro-curcino-dos-santos-490601262/  
 
-## Contacts:
-<div> 
-<a href="mailto:joaopecurcino.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-curcino-dos-santos-490601262/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>&nbsp;&nbsp;
+---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=434c5e&height=120&section=footer"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=434c5e&height=120&section=footer"/>
+</p>
