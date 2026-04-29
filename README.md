@@ -23,7 +23,7 @@ Experience with **PIX, boletos, credit card**, event-driven architecture (**Kafk
 ## 💼 Experience
 
 **Software Engineer @ Infocraft**  
-`2025 - Present`
+`2024 - Present`
 
 ⚡ Backend services (NestJS / Laravel)  
 💳 Financial integrations (PIX, boletos, credit card)  
