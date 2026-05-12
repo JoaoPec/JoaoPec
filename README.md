@@ -95,7 +95,7 @@ Portfolio Optimization
 
 <p align="center">
   <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoPec&theme=tokyonight&mode=weekly" />
-  <img width="40%" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=JoaoPec&layout=compact&theme=tokyonight&hide=html,css,scss,javascript,blade" />
+  ![Stats](./profile/stats.svg)
 </p>
 
 ---
