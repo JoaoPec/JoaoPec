@@ -94,9 +94,15 @@ Portfolio Optimization
 ## 📊 Stats
 
 <p align="center">
-  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoPec&theme=tokyonight&mode=weekly" />
-  ![Stats](./profile/stats.svg)
+  <img width="48%" src="https://github-readme-stats-joaopec.vercel.app/api?username=JoaoPec&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats-joaopec.vercel.app/api/top-langs/?username=JoaoPec&layout=compact&theme=tokyonight&hide=html,css" />
 </p>
+
+<p align="center">
+  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoPec&theme=tokyonight&mode=weekly" />
+</p>
+
+<!-- NOTE: If your Vercel deployment URL is different, update the images above -->
 
 ---
 
