@@ -94,12 +94,11 @@ Portfolio Optimization
 ## 📊 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-bice-iota-27.vercel.app/api?username=JoaoPec&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-stats-bice-iota-27.vercel.app/api/top-langs/?username=JoaoPec&layout=compact&theme=tokyonight&hide=html,css&count_private=true" />
+  <img width="90%" src="https://github-readme-stats-bice-iota-27.vercel.app/api/top-langs/?username=JoaoPec&layout=compact&theme=tokyonight&hide=javascript,blade,vue,html,css&count_private=true&hide_progress=true" />
 </p>
 
 <p align="center">
-  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoPec&theme=tokyonight&mode=weekly" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoPec&theme=tokyonight&mode=weekly" />
 </p>
 
 ---
