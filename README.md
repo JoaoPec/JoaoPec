@@ -5,9 +5,9 @@ Backend Engineer • Financial Systems • APIs • Distributed Systems
 </p>
 
 <p align="center">
-<a href="https://joaopec.com">🌐 Portfolio</a> •
+<a href="https://joaopec.com" target="_blank" rel="noopener noreferrer">🌐 Portfolio</a> •
 <a href="mailto:joaopecurcino.dev@gmail.com">📩 Email</a> •
-<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-curcino-dos-santos-490601262/">💼 LinkedIn</a>
+<a href="https://www.linkedin.com/in/joão-curcino-490601262" target="_blank" rel="noopener noreferrer">💼 LinkedIn</a>
 </p>
 
 ---
@@ -39,7 +39,7 @@ Experience with **PIX, boletos, credit card**, event-driven architecture (**Kafk
 <td width="50%">
 
 ### 🧥 Vistta  
-🔗 https://vistta.app  
+🔗 <a href="https://vistta.app" target="_blank" rel="noopener noreferrer">vistta.app</a>  
 
 C2C marketplace for second-hand fashion  
 
