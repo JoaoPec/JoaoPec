@@ -1,7 +1,7 @@
 <h1 align="center">João Curcino</h1>
 
 <p align="center">
-Backend Engineer • Financial Systems • APIs • Distributed Systems
+Software Engineer • Full-Stack • Financial Systems • Mobile & Web
 </p>
 
 <p align="center">
@@ -14,9 +14,9 @@ Backend Engineer • Financial Systems • APIs • Distributed Systems
 
 ## 🚀 About
 
-Backend Engineer focused on **financial systems and management platforms**, building scalable APIs and integrations with **NestJS, Node.js, and Laravel**.
+Software Engineer building **full-stack products** — from mobile apps to backend APIs and cloud infrastructure. Focused on **financial systems, marketplaces and real-time applications** with **NestJS, Flutter, Next.js and Laravel**.
 
-Experience with **PIX, boletos, credit card**, event-driven architecture (**Kafka**) and production systems running on **Docker + Linux**.
+Experience with **PIX, boletos, credit card**, event-driven architecture (**Kafka**), mobile development (**Flutter/Dart**) and production systems running on **Docker + Linux**.
 
 ---
 
@@ -25,8 +25,9 @@ Experience with **PIX, boletos, credit card**, event-driven architecture (**Kafk
 **Software Engineer @ Infocraft**  
 `2024 - Present`
 
-⚡ Backend services (NestJS / Laravel)  
+⚡ Full-stack services (NestJS / Laravel / Next.js)  
 💳 Financial integrations (PIX, boletos, credit card)  
+📱 Mobile development (Flutter)  
 📄 Digital signature & automation  
 📊 Management systems & performance optimization  
 
@@ -74,6 +75,12 @@ Portfolio Optimization
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
+### Frontend & Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
+
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
@@ -84,10 +91,6 @@ Portfolio Optimization
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
 
 ---
 
