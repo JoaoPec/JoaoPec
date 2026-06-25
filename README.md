@@ -34,9 +34,11 @@ Focused on **financial systems** (PIX, boletos, credit card), event-driven archi
 
 **Data & Infra** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 
+<!-- Stats ocultados — descomente para reativar
 ---
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats-bice-iota-27.vercel.app/api/top-langs/?username=JoaoPec&layout=compact&theme=tokyonight&hide=javascript,blade,vue,html,css,scss,lua,shell&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoPec&theme=tokyonight&mode=weekly" />
 </p>
+-->
