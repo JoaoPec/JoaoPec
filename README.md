@@ -21,7 +21,7 @@ Focused on **financial systems** (PIX, boletos, credit card), event-driven archi
 
 | | |
 |---|---|
-| **🧥 [Vistta](https://vistta.app)** — C2C marketplace for second-hand fashion. APIs, real-time chat, listings & transactions, mobile-first. | **👻 [FormPhantom](https://formphantom.vercel.app)** — Chrome extension that auto-fills job application forms. Persistent profile, PDF extraction and smart field matching (LinkedIn, Gupy, Greenhouse, Lever…). |
+| **🧥 [Vistta](https://vistta.app)** — C2C marketplace for second-hand fashion. **NestJS** backend, **Next.js** web and **Flutter** mobile. Real-time chat, listings & transactions. | **👻 [FormPhantom](https://formphantom.vercel.app)** — Chrome extension that auto-fills job application forms. Persistent profile, PDF extraction and smart field matching (LinkedIn, Gupy, Greenhouse, Lever…). |
 | **📱 [Toque Duplo](https://github.com/JoaoPec/toque-duplo)** — Investigative thriller game (Flutter): explore the seized phone of a man who turns out to be three men. | **📈 [Markowitz](https://github.com/JoaoPec/Fronteira-de-Markowitz)** — B3 portfolio optimization in Python: efficient frontier, risk vs return, financial modeling. |
 
 ---
