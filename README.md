@@ -1,7 +1,7 @@
 <h1 align="center">João Curcino</h1>
 
 <p align="center">
-Software Engineer • Full-Stack • Financial Systems • Mobile & Web
+Software Engineer • Full-Stack • Financial Systems
 </p>
 
 <p align="center">
@@ -12,97 +12,31 @@ Software Engineer • Full-Stack • Financial Systems • Mobile & Web
 
 ---
 
-## 🚀 About
-
-Software Engineer building **full-stack products** — from mobile apps to backend APIs and cloud infrastructure. Focused on **financial systems, marketplaces and real-time applications** with **NestJS, Flutter, Next.js and Laravel**.
-
-Experience with **PIX, boletos, credit card**, event-driven architecture (**Kafka**), mobile development (**Flutter/Dart**) and production systems running on **Docker + Linux**.
+Engenheiro de software full-stack na **Infocraft** (2024–), construindo de apps mobile a APIs e infra em produção.
+Foco em **sistemas financeiros** (PIX, boletos, cartão), arquitetura orientada a eventos (**Kafka**) e produtos em tempo real com **NestJS, Flutter, Next.js e Laravel**.
 
 ---
 
-## 💼 Experience
+## 🚀 Projetos em destaque
 
-**Software Engineer @ Infocraft**  
-`2024 - Present`
-
-⚡ Full-stack services (NestJS / Laravel / Next.js)  
-💳 Financial integrations (PIX, boletos, credit card)  
-📱 Mobile development (Flutter)  
-📄 Digital signature & automation  
-📊 Management systems & performance optimization  
-
----
-
-## 🚀 Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧥 Vistta  
-🔗 <a href="https://vistta.app" target="_blank" rel="noopener noreferrer">vistta.app</a>  
-
-C2C marketplace for second-hand fashion  
-
-- APIs & backend architecture  
-- Chat & real-time flows  
-- Listings & transactions  
-- Mobile-first experience  
-
-</td>
-
-<td width="50%">
-
-### 📈 Markowitz  
-Portfolio Optimization  
-
-- Risk vs return analysis  
-- Efficient frontier  
-- Python simulations  
-- Financial modeling  
-
-</td>
-</tr>
-</table>
+| | |
+|---|---|
+| **🧥 [Vistta](https://vistta.app)** — marketplace C2C de moda second-hand. APIs, chat em tempo real, listings e transações, mobile-first. | **👻 [FormPhantom](https://formphantom.vercel.app)** — extensão Chrome que preenche candidaturas a vagas automaticamente. Perfil persistente, extração de PDF e matching inteligente de campos (LinkedIn, Gupy, Greenhouse, Lever…). |
+| **📈 [Markowitz](https://github.com/JoaoPec/Fronteira-de-Markowitz)** — otimização de carteiras da B3 em Python: fronteira eficiente, risco × retorno, modelagem financeira. | |
 
 ---
 
 ## 🧠 Stack
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+**Backend** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-### Frontend & Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
+**Frontend & Mobile** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+**Data & Infra** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 
 ---
-
-## 📊 Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats-bice-iota-27.vercel.app/api/top-langs/?username=JoaoPec&layout=compact&theme=tokyonight&hide=javascript,blade,vue,html,css,scss,lua,shell&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoPec&theme=tokyonight&mode=weekly" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=434c5e&height=120&section=footer"/>
 </p>
