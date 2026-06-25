@@ -12,17 +12,17 @@ Software Engineer • Full-Stack • Financial Systems
 
 ---
 
-Engenheiro de software full-stack na **Infocraft** (2024–), construindo de apps mobile a APIs e infra em produção.
-Foco em **sistemas financeiros** (PIX, boletos, cartão), arquitetura orientada a eventos (**Kafka**) e produtos em tempo real com **NestJS, Flutter, Next.js e Laravel**.
+Full-stack software engineer at **Infocraft** (2024–), building everything from mobile apps to production APIs and infrastructure.
+Focused on **financial systems** (PIX, boletos, credit card), event-driven architecture (**Kafka**) and real-time products with **NestJS, Flutter, Next.js and Laravel**.
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Featured projects
 
 | | |
 |---|---|
-| **🧥 [Vistta](https://vistta.app)** — marketplace C2C de moda second-hand. APIs, chat em tempo real, listings e transações, mobile-first. | **👻 [FormPhantom](https://formphantom.vercel.app)** — extensão Chrome que preenche candidaturas a vagas automaticamente. Perfil persistente, extração de PDF e matching inteligente de campos (LinkedIn, Gupy, Greenhouse, Lever…). |
-| **📈 [Markowitz](https://github.com/JoaoPec/Fronteira-de-Markowitz)** — otimização de carteiras da B3 em Python: fronteira eficiente, risco × retorno, modelagem financeira. | |
+| **🧥 [Vistta](https://vistta.app)** — C2C marketplace for second-hand fashion. APIs, real-time chat, listings & transactions, mobile-first. | **👻 [FormPhantom](https://formphantom.vercel.app)** — Chrome extension that auto-fills job application forms. Persistent profile, PDF extraction and smart field matching (LinkedIn, Gupy, Greenhouse, Lever…). |
+| **📱 [Toque Duplo](https://github.com/JoaoPec/toque-duplo)** — Investigative thriller game (Flutter): explore the seized phone of a man who turns out to be three men. | **📈 [Markowitz](https://github.com/JoaoPec/Fronteira-de-Markowitz)** — B3 portfolio optimization in Python: efficient frontier, risk vs return, financial modeling. |
 
 ---
 
