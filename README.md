@@ -18,26 +18,6 @@ The default stack for that is **Python** (stdlib first, idempotent, tested), **P
 
 ---
 
-## ⚙️ What an automation from me looks like
-
-These run unattended at month-end. So the requirements are not "it works" — they are "it works again next month, on data nobody cleaned":
-
-- **Idempotent** — persistent state (SQLite) so re-running the same input never duplicates a record or a payment.
-- **Deterministic rules** — tie-breaking is explicit and ordered (`invalid data → duplicate payment → missing payment → reconciled → partial / overpaid`), not an accident of `if` order nobody remembers.
-- **Config, not code** — tolerance (`R$ 0.01`) and eligible order statuses live in `config.toml`, so finance changes it without a deploy.
-- **LGPD by default** — CPF/CNPJ validated by check digits and never written to an output file or a log line.
-- **Operable** — semantic exit codes (`0` ok / `1` bad input / `2` bad config), per-job logging and a local panel for whoever doesn't live in a terminal.
-- **Tested against real mess** — duplicate IDs, conflicting records, values in the wrong locale format, already-processed records. All of it covered.
-
-## 🚀 Selected work
-
-| | |
-|---|---|
-| **🔁 Order × payment reconciliation** — Python automation that classifies every order, isolates the divergences and publishes `conciliacao.csv` / `erros.csv` / `resumo.json`. Stdlib only, 37 tests, idempotent by design. *(private — NewChase technical challenge)* | **🧥 [Vistta](https://vistta.app)** — C2C marketplace for second-hand fashion. **NestJS** backend, **Next.js** web and **Flutter** mobile. Real-time chat, listings & transactions. |
-| **👻 [FormPhantom](https://formphantom.vercel.app)** — Chrome extension that auto-fills job application forms. Persistent profile, PDF extraction and smart field matching (LinkedIn, Gupy, Greenhouse, Lever…). | **📈 [Markowitz](https://github.com/JoaoPec/Fronteira-de-Markowitz)** — B3 portfolio optimization in Python: efficient frontier, risk vs return, financial modeling. |
-
----
-
 ## 🧠 Stack
 
 **Automation** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) ![RPA](https://img.shields.io/badge/RPA-4B5563?style=flat) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Excel](https://img.shields.io/badge/Excel%20%2F%20CSV-217346?style=flat&logo=microsoftexcel&logoColor=white)
